@@ -1,0 +1,44 @@
+Table in project
+1.tbl_user={
+    id
+    username
+    password
+    profile
+}
+2.tbl_logo{
+    id
+    thumnail
+    status(footer,header)
+}
+3.tbl_news{
+    id
+    auther_id
+    title
+    date
+    discription
+    benner
+    thumnail
+    new_type
+    category
+    views
+}
+4.tbl_about_us{
+    id
+    description
+}
+5.tbl_follow_us{
+    id
+    label
+    thumbnail
+    url
+    status(footer)
+}
+6.tbl_feedback{
+    id
+    name
+    email
+    phone
+    address
+    description
+    create_at
+}
